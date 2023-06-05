@@ -9,7 +9,7 @@ const getYear = () =>{
 export const Footer = () => {
   return (
     <div>
-        Copyright ® { getYear() } Sistema Operativo
+        Copyright ® { getYear() } Sistemas Operativos
     </div>
   )
 }
